@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "638272735357",
+    "firebase_url": "https://esp32-cam-c4527-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-cam-c4527",
+    "storage_bucket": "esp32-cam-c4527.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638272735357:android:385ac971e9ae5339a0c914",
+        "android_client_info": {
+          "package_name": "com.example.smartLab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBvC25i6P9hRJ7LeK7tqdPVVaLrBf2jls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638272735357:android:99bf18dbea748ddda0c914",
+        "android_client_info": {
+          "package_name": "com.example.smart_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBvC25i6P9hRJ7LeK7tqdPVVaLrBf2jls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
