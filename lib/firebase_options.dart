@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCqDfAzfQcYbucpJ-LNWW6676bMZoJYXf4',
+    apiKey: 'api_key',
     appId: '1:638272735357:web:b4df497a0069dcc4a0c914',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDBvC25i6P9hRJ7LeK7tqdPVVaLrBf2jls',
+    apiKey: 'api_key',
     appId: '1:638272735357:android:99bf18dbea748ddda0c914',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
@@ -60,27 +60,27 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: '',
+    apiKey: 'api_key',
     appId: '',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
-    databaseURL: 'https://esp32-cam-c4527-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'firebasedatabase.app',
     storageBucket: 'esp32-cam-c4527.firebasestorage.app',
     iosBundleId: 'com.example.smartLab',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: '',
+    apiKey: 'api_key',
     appId: '',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
-    databaseURL: 'https://esp32-cam-c4527-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'firebasedatabase.app',
     storageBucket: 'esp32-cam-c4527.firebasestorage.app',
     iosBundleId: 'com.example.smartLab',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: '',
+    apiKey: 'api_key',
     appId: '',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
