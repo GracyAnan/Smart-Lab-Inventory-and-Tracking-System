@@ -60,8 +60,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBp8Y4sFtFrdMP2mJgyFkhaNY93iMb_SBk',
-    appId: '1:638272735357:ios:bbdab30861b8cc08a0c914',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
     databaseURL: 'https://esp32-cam-c4527-default-rtdb.asia-southeast1.firebasedatabase.app',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBp8Y4sFtFrdMP2mJgyFkhaNY93iMb_SBk',
-    appId: '1:638272735357:ios:bbdab30861b8cc08a0c914',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
     databaseURL: 'https://esp32-cam-c4527-default-rtdb.asia-southeast1.firebasedatabase.app',
@@ -80,8 +80,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCqDfAzfQcYbucpJ-LNWW6676bMZoJYXf4',
-    appId: '1:638272735357:web:feafdbb687dd11f7a0c914',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '638272735357',
     projectId: 'esp32-cam-c4527',
     authDomain: 'esp32-cam-c4527.firebaseapp.com',
